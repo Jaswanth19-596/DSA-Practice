@@ -61,7 +61,8 @@ No harmonic subsequence exists.
 - Basically try to think that what this question is trying to do with your mind, its more of a mind game here.
   So basically you just have to find a number and then the successor(number +1 ) of that number in the given array and check their frequencies and that will be our answer.(Why?)
 
-  ````Algorithm findLHS(nums):
+  ```
+  Algorithm findLHS(nums):
 
   Input: An array nums storing n ≥ 1 integers.
   Output: The length of the longest harmonious subsequence.
@@ -79,8 +80,8 @@ No harmonic subsequence exists.
   5. return res
 
   Time Complexity: O(n)
-  Space Complexity: O(n)```
-  ````
+  Space Complexity: O(n)
+  ```
 
 ### Approach 2:
 
