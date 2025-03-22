@@ -44,14 +44,12 @@ n == nums.length
 
 ### Appraoch 1:
 
+```
 - Explore each subarray and find the average and keep track of highest average.
 
-  Time Complexity: O(n \* k)
-  Space Complexity: O(1)
-
-  ```
-
-  ```
+ Time Complexity: O(n \* k)
+ Space Complexity: O(1)
+```
 
 ### Approach 2:
 
