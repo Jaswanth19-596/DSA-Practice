@@ -178,3 +178,6 @@ class Solution:
 
 
     Space Complexity: O(n)
+
+        - Recursive call stack : O(n)
+        - Dictionary : O(1)
